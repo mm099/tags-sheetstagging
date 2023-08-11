@@ -14,6 +14,12 @@
 
 5. Find line 9 where it says `var tagColumnName = 'Tags'` and replace 'Tags' with the name of your column.
 
+# How to Add a Tag to a Cell
+
+Choose the tag from the dropdown menu.
+
+You can also search for the tag. Select the cell, then *empty* it (this is important) by pressing `ctrl-A` and typing in the name of the tag you want to search for. It will then appear in the dropdown menu.
+
 # How to Delete a Tag from a Cell
 
 Select the tag again from the dropdown menu.
