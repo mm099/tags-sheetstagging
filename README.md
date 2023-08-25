@@ -1,4 +1,4 @@
-# Pseudo-Tagging System for Google Sheets
+# Tagging System for Google Sheets
 
 ![img1.png](/assets/img1.png)
 
